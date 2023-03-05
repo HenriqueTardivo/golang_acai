@@ -6,5 +6,5 @@ A aplicação ira possuir 3 entidades: Acai, adicionais e acai_adicionais. Dessa
 
 ### Tecnologias
 
-GoLang
-Sqlite
+- GoLang
+- Sqlite
